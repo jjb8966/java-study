@@ -1,5 +1,9 @@
+//package week8_interface.multi_impl;
 //
-//public class ImplAB implements InterfaceA, InterfaceB{
+//import week8_interface.multi_impl.InterfaceA;
+//import week8_interface.multi_impl.InterfaceB;
+//
+//public class ImplAB implements InterfaceA, InterfaceB {
 //
 //    @Override
 //    public String sayHi() {
@@ -7,4 +11,4 @@
 //    }
 //}
 //
-// 불가능
+//// 불가능

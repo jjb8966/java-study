@@ -1,6 +1,7 @@
 package week8_interface.multi_impl;
 
 public class ImplAC implements InterfaceA, InterfaceC{
+    
     @Override
     public String sayHi() {
         return "hi";
